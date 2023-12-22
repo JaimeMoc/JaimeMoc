@@ -4,3 +4,11 @@
 <p><em>Apasionado por la tecnología, los datos y el aprendizaje automático.</em></p>
 <p><em>Microsoft Learn Student Ambassador.</em></p>
 
+
+```javascript
+About Jaime Suarez = {
+    Pronouns: ['He' or 'Him']
+    Code: ['HTML', 'CSS', 'Python', 'Java']
+    Bookstores: ['Pandas', 'Numpy', 'Matplotlib']
+    Tools: ['SQL', 'Django', 'VS Code', 'Jupyter', 'Power BI']
+}
