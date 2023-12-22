@@ -15,10 +15,10 @@ More About Jaime Moctezuma {
 ```
 
 <!-- Primera imagen -->
-<img src="https://drive.google.com/file/d/1ETCw0myX3LQDe4sVoYp7sigKcQ49xPmH/view?usp=sharing" width="300">
+<img src="https://drive.google.com/uc?id=1ETCw0myX3LQDe4sVoYp7sigKcQ49xPmH" width="300">
 
 <!-- Segunda imagen -->
-<img src="https://drive.google.com/file/d/1Ze2aYHEZNUCtblz0OCL5vmhb_ucol978/view?usp=sharing" width="300">
+<img src="https://drive.google.com/uc?id=1Ze2aYHEZNUCtblz0OCL5vmhb_ucol978" width="300">
 
 <!-- Tercera imagen -->
-<img src="https://drive.google.com/file/d/1cYYVYw1JEg813lCJyEyVHjEp2hxHrKti/view?usp=sharing" width="300">
+<img src="https://drive.google.com/uc?id=1cYYVYw1JEg813lCJyEyVHjEp2hxHrKti" width="300">
