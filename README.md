@@ -6,9 +6,12 @@
 
 
 ```javascript
-About Jaime Suarez = {
+More about Jaime_Suarez_Moctezuma = {
     Pronouns: ['He' or 'Him']
-    Code: ['HTML', 'CSS', 'Python', 'Java']
-    Bookstores: ['Pandas', 'Numpy', 'Matplotlib']
-    Tools: ['SQL', 'Django', 'VS Code', 'Jupyter', 'Power BI']
+    Fav_Color: ['Black']
+    From: ['San Crtistobal De Las Casas, Chiapas, México']
+    Age: ['22']
+    programming languages: ['Python', 'Java']
+    More-Tools: ['SQL', 'Power BI', 'Git', 'Excel', 'Cloud',]
+    Interested : ['BD', 'DataEngineer', 'DataGovernace', 'DataMesh', 'Data', 'BackEnd', 'Cloud', 'Microservices']
 }
