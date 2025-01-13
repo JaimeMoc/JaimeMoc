@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi!!, I'm Jaime Moctezuma, 
-<br>a computer systems engineering student. 
+<br>Hi!!, I'm Jaime Moctezuma, 
+<br>A computer systems engineering student. 
 <br>My professional interests are Data engineering, developer backend and AI.
 
 
